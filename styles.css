@@ -14,14 +14,14 @@ body {
   background-color: #1e1e1e;
   padding: 40px;
   border-radius: 16px;
-  box-shadow: 0 0 30px rgba(0, 188, 18, 0.2);
+  box-shadow: 0 0 30px #159fda;
   animation: fadeIn 1.2s ease-out;
 }
 
 
 h1 {
   text-align: center;
-  color: #0BEC12;
+  color: #159fda;
   font-size: 2.5rem;
   margin-bottom: 40px;
   animation: slideIn 0.8s ease-out;
@@ -39,10 +39,10 @@ h1 span {
 
 
 .section h2 {
-  color: #0BEC12;
+  color: #8adef4;
   font-size: 1.5rem;
   margin-bottom: 10px;
-  border-left: 5px solid #0BEC12;
+  border-left: 5px solid #8adef4;
   padding-left: 12px;
 }
 
